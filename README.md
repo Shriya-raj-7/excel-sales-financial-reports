@@ -6,10 +6,10 @@ This project showcases an Excel-based business reporting solution that includes 
 
 ## Report Downloads
 
--  [Customer Performance Report](./Customer_Performance_Report.pdf)
--  [Market vs Target Performance Report](./Market_vs_Target_Performance_Report.pdf)
--  [Profit & Loss by Fiscal Years](./Profit_and_Loss_by_Fiscal_Years.pdf)
--  [Profit & Loss by Fiscal Months](./Profit_and_Loss_by_Fiscal_Months.pdf)
+-  [Customer Performance Report](Customer Performance Report.pdf)
+-  [Market vs Target Performance Report](Market Performance vs Target Report.pdf)
+-  [Profit & Loss by Fiscal Years](P & L By Fiscal Year.pdf)
+-  [Profit & Loss by Fiscal Months](P & L By Fiscal Months.pdf)
 
 ---
 
